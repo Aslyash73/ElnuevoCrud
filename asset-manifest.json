@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ElnuevoCrud/static/css/main.ad653b93.chunk.css",
-    "main.js": "/ElnuevoCrud/static/js/main.429a2a3d.chunk.js",
-    "main.js.map": "/ElnuevoCrud/static/js/main.429a2a3d.chunk.js.map",
+    "main.js": "/ElnuevoCrud/static/js/main.e6342fa3.chunk.js",
+    "main.js.map": "/ElnuevoCrud/static/js/main.e6342fa3.chunk.js.map",
     "runtime-main.js": "/ElnuevoCrud/static/js/runtime-main.305bb9e4.js",
     "runtime-main.js.map": "/ElnuevoCrud/static/js/runtime-main.305bb9e4.js.map",
-    "static/js/2.53b800cc.chunk.js": "/ElnuevoCrud/static/js/2.53b800cc.chunk.js",
-    "static/js/2.53b800cc.chunk.js.map": "/ElnuevoCrud/static/js/2.53b800cc.chunk.js.map",
+    "static/js/2.47434ef4.chunk.js": "/ElnuevoCrud/static/js/2.47434ef4.chunk.js",
+    "static/js/2.47434ef4.chunk.js.map": "/ElnuevoCrud/static/js/2.47434ef4.chunk.js.map",
     "static/js/3.a50147c0.chunk.js": "/ElnuevoCrud/static/js/3.a50147c0.chunk.js",
     "static/js/3.a50147c0.chunk.js.map": "/ElnuevoCrud/static/js/3.a50147c0.chunk.js.map",
     "index.html": "/ElnuevoCrud/index.html",
     "static/css/main.ad653b93.chunk.css.map": "/ElnuevoCrud/static/css/main.ad653b93.chunk.css.map",
-    "static/js/2.53b800cc.chunk.js.LICENSE.txt": "/ElnuevoCrud/static/js/2.53b800cc.chunk.js.LICENSE.txt"
+    "static/js/2.47434ef4.chunk.js.LICENSE.txt": "/ElnuevoCrud/static/js/2.47434ef4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.305bb9e4.js",
-    "static/js/2.53b800cc.chunk.js",
+    "static/js/2.47434ef4.chunk.js",
     "static/css/main.ad653b93.chunk.css",
-    "static/js/main.429a2a3d.chunk.js"
+    "static/js/main.e6342fa3.chunk.js"
   ]
 }
