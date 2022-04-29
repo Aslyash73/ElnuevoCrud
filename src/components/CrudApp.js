@@ -65,7 +65,7 @@ const CrudApp = () => {
 
   return (
     <div>
-      <h2>CRUD App</h2>
+      <h2>CRUD </h2>
       <article className="grid-1-2">
         <CrudForm
            createData={createData}
