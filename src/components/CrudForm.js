@@ -8,7 +8,7 @@ const initialForm = {
   nacionalidad: "",
 };
 
-const CrudForm = ({ db, dataToEdit, setDataToEdit, setDb, search,  }) => {
+const CrudForm = ({ createData, db, updateData, dataToEdit, setDataToEdit, setDb, search,  }) => {
   
   const [form, setForm] = useState();
 
@@ -45,7 +45,7 @@ const CrudForm = ({ db, dataToEdit, setDataToEdit, setDb, search,  }) => {
       console.log(Object.keys(form).length)
       //el tamaño mayor o igual a 5 porque tienes 5 inputs
       if(form && Object.keys(form).length === 5) {
-        !search(form.identificacion) ? setDb([...db, form]) : alert("El usuario ya existe!!")
+        !search(form.identificacion) ? createData(form) : updateData(form)
         console.log(Object.keys(form).length)
       } else {
       alert("Debes llenar todos los campos.")
